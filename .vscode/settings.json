@@ -1,0 +1,7 @@
+{
+    "markdown.preview.linkify": true,
+    "editor.links": true,
+    "editor.linkedEditing": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "accessibility.underlineLinks": true
+}
